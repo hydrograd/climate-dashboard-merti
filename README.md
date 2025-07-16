@@ -14,6 +14,8 @@ pip install -r requirements.txt
 python scripts/run_dashboard.py
 ```
 
+## 🚀 **[VIEW DASHBOARD ONLINE](https://hydrograd.github.io/climate-dashboard-merti/merti_improved_dashboard.html)** 🚀
+
 ## 📊 Features
 
 Interactive temperature analysis with agricultural thresholds
